@@ -1,0 +1,34 @@
+Nombre: Juan Escobar Mendoza 
+Carrera: Diseño y Desarrollo de Software
+Ciclo: III
+Curos: Desarrollo de aplicaciones en internet
+Grupo: A
+
+Observaciones.
+ 
+1. Se observó que según documentacion consultada la etiqueta que hace referencia al
+   javascript se debe colocar abajo de la del body
+2. Observamos que a diferencia de otros terminales, editar en el lenguaje javascript
+   en VScode no es muy confiable al indicar donde esta el error que posiblemente 
+   estemos cometiendo
+3. Observamos que no es necesario el ";" al final de la línea de código si estamos 
+   editando con el VScode 
+4. Se observó que podemos reotrnar el resultado de la operación mediante un alert
+   o escribiendo en el documento
+5. Observamos que nuestro archivo javascript logra ser interpretado por varios 
+   navegadores (edge, mozilla, chrome, entre otros)
+
+Conclusiones.
+ 
+1. Concluimos que se puede brindar dinamismo y funcionalidad a la página web 
+   mediante el uso de javascript.
+2. Concluimos que al igual que trabajar con CSS podemos tener un archivo javascript 
+   externo y para referenciarlo hacemos uso de la etiqueta script
+3. Se concluyó que se puede agrgar varias funciones al archivo javascript que 
+   generamos.
+4. Se concluyó que javascript si es un lenguaje de programación a diferencia de html 
+   y css, porque podemos realizar operaciones, bucles, condicionales, clases, etc.
+5. Se logró con éxito la implementación de una funcion que recoge datos del cófigo
+   html para luego procesarla y dar una respuesta.
+6. Concluimos que JS se interpreta en el agente de usuario, al mismo tiempo que las 
+   sentencias van descargándose junto con el código HTML.

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Page Title</title>
+        <link rel="stylesheet" type="text/css" href="/css/ejercicio_5.css"/>
+    </head>
+    <body>
+        <div class="cajetilla">
+            <h1>Casa de Cambio</h1>
+            <p>Seleccionar moneda</p>
+            <p>Convertir de:</p>
+            <div>
+                <p><input type="radio" name="monedas_1" value="sol" checked onclick="muestra_opcion()">Sol</p>
+                <p><input type="radio" name="monedas_1" value="dolar" onclick="muestra_opcion()">Dólar</p>
+                <p><input type="radio" name="monedas_1" value="euro" onclick="muestra_opcion()">Euro</p>
+            </div>
+            <p>A:</p>
+            <div>
+                <p><input type="radio" name="monedas_2" value="sol" checked onclick="muestra_opcion()">Sol</p>
+                <p><input type="radio" name="monedas_2" value="dolar" onclick="muestra_opcion()">Dólar</p>
+                <p><input type="radio" name="monedas_2" value="euro" onclick="muestra_opcion()">Euro</p>
+            </div>
+            <form>
+                <p>Ingrese el monto:</p>
+                <input type="text" id="num1"><br>
+                <button type="button" onclick="a_cambiar()">Cambio</button>
+            </form>
+        </div>
+    </body>
+    <script src="../js/ejercicio_5.js"></script>
+</html>
